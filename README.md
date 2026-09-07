@@ -4,8 +4,6 @@ A fast terminal network monitor for Linux, built around `ss` and `curses`.
 
 `network-monitor` is meant for quickly seeing active sockets, traffic rates, listening services, processes, and PIDs in one terminal screen. It is especially useful when you want something lighter and more process-oriented than `iftop`.
 
-![network-monitor screenshot](docs/screenshot.png)
-
 ## Features
 
 - Live TCP/UDP socket table using `ss`
