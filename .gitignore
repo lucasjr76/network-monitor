@@ -1,0 +1,15 @@
+# Local/runtime artifacts
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.backup/
+
+# Editor/OS noise
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Local Hermes project context
+HERMES.md
